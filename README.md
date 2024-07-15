@@ -39,7 +39,7 @@ Notes
 ## Example
 
 ```bash
-$ python3 port_scanner.py example.com
+$ python3 port_scanner.py 192.168.0.24
 Scanning target: 93.184.216.34
 Time started: 2024-07-15 12:00:00
 --------------------------------------------------
